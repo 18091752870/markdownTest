@@ -13,9 +13,15 @@ An image that is located on the web (not a file inthedirectory). If you right-cl
 
 ![bilibiliSpring](https://i0.hdslb.com/bfs/vc/c1e19150b5d1e413958d45e0e62f012e3ee200af.png)
 
-• a code block with syntax highlighting for the programming language being used. Put some example code in the code block. I don't care what code. Note that those three ticks that define a code block are backticks not apostrophes.
+A code block with syntax highlighting for the programming language being used. Put some example code in the code block. I don't care what code. Note that those three ticks that define a code block are backticks not apostrophes.
 
-•  a block quote.
+```java
+public static void main(String[] args) {
+    System.out.print("Hello World");
+}
+```
+
+A block quote.
 
 •  a bulleted list.
 
