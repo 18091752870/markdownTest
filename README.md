@@ -21,18 +21,34 @@ public static void main(String[] args) {
 }
 ```
 
-A block quote.
+A block quote:
+> This
+> is
+> a
+> block 
+> quote.
 
-•  a bulleted list.
+A bulleted list.
 
-•  a numbered list.
+* A
+* B
+* C
 
-•  a table.
+A numbered list.
 
-•  bolded text.
+1. A
+2. B
+3. C
 
-•  italicized text.
+A table.
+|1|2|3|
+|-|-|-|
+|4|5|6|
 
-•  strikethrough text~~like this~~.
+**Bolded text.**
 
-• a horizontal rule like the one that follows this list.
+***Italicized text.***
+
+~~strikethrough text.~~
+
+A horizontal rule like the one that follows this list.
